@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Davlatyot
+- 👋 Hi, I’m @Shoxrux
 - 👀 I'm interested in programming
 - 🌱 I’m currently learning python and CV
 - 💞️ I want to cooperate with companies in the field of AI
